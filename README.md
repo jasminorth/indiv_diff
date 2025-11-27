@@ -31,8 +31,8 @@ Zur Erinnerung hier noch einmal unser festgelegter Versuchsablauf. Ihr findet hi
 
 
 
-# Was gibt es hier sonst noch zu sehen?
-* TODO: Ordner hinzufügen
-* Probandendateien
-* Datensatz
-* etc
+%# Was gibt es hier sonst noch zu sehen?
+%* TODO: Ordner hinzufügen
+%* Probandendateien
+%* Datensatz
+%* etc
