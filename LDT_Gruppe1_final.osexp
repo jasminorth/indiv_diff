@@ -2211,3 +2211,4 @@ define sketchpad welcome
 	set description "Displays stimuli"
 	draw textline center=1 color=white font_bold=no font_family=serif font_italic=no font_size=32 html=yes show_if=always text="OpenSesame 3.3 <i>Lentiform Loewenfeld</i>" x=0 y=0 z_index=0
 
+
