@@ -25,9 +25,9 @@ Zur Erinnerung hier noch einmal unser festgelegter Versuchsablauf. Ihr findet hi
 
 ## OpenSesame-Experiment (Lexical Decision Task)
 * Experiment durchführen
-* die aktuelle Version des Experiments (Stand: 27.11.25, *noch nicht final*) findet ihr hier auf GitHub
+* die aktuelle Version des Experiments (Stand: 30.11.25, *final*) findet ihr hier auf GitHub
 
-> sobald die Version final ist, sicherstellen, dass wir alle diese Version verwenden (Version: "name")
+> sobald die Version final ist, sicherstellen, dass wir alle diese Version verwenden (Version: "LDT_Gruppe1_final")
 
 
 
