@@ -25,9 +25,9 @@ Conditions for words to be included:
 
 
 Datasets used in word collection:
-Stimuli and their valence: BRM-emot-submit.csv https://link.springer.com/article/10.3758/s13428-012-0314-x
-Frequency: SUBTLEXusfrequencyabove1.xls https://www.ugent.be/pp/experimentele-psychologie/en/research/documents/subtlexus/overview.htm
-Cognates: CogNet-v1.0.tsv https://github.com/kbatsuren/CogNet/blob/master/CogNet-v1.0.zip
+* Stimuli and their valence: BRM-emot-submit.csv https://link.springer.com/article/10.3758/s13428-012-0314-x
+* Frequency: SUBTLEXusfrequencyabove1.xls https://www.ugent.be/pp/experimentele-psychologie/en/research/documents/subtlexus/overview.htm
+* Cognates: CogNet-v1.0.tsv https://github.com/kbatsuren/CogNet/blob/master/CogNet-v1.0.zip
 
 The aforementioned datasets were automatically parsed (see code {`dataset_creation.ipynb`, LINK]) and only fitting instances were retained. These instances were then filtered into one of three categorical valences:
 positive (valence of 7 or higher), negative (valence of 3 or lower), and neutral (valence between (or equal to) 4.5 and 5.5).
