@@ -30,10 +30,27 @@ Zur Erinnerung hier noch einmal unser festgelegter Versuchsablauf. Ihr findet hi
 > sobald die Version final ist, sicherstellen, dass wir alle diese Version verwenden (Version: "LDT_Gruppe1_final")
 
 
+# Was gibt es hier sonst noch zu sehen?
+* background
+  * preliminary literature review
+* dataset
+  * README.md: overview over dataset creation
+  * dataset_creation.ipynb: code notebook used for dataset creation
+  * experiment_stimuli_dataframe.csv: final dataset used in the experiment
+  * statistical_significance.R: code used for statistical testing of stimuli
+* experiment constituents
+  * LDT_Gruppe1_final.osexp: OpenSesame experiment
+  * todo:xxx
+* experiment raw data
+  * todo:xxx
+ 
 
 
-%# Was gibt es hier sonst noch zu sehen?
-%* TODO: Ordner hinzufügen
-%* Probandendateien
-%* Datensatz
-%* etc
+
+
+
+
+
+
+
+
