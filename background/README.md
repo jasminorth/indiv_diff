@@ -6,7 +6,7 @@ Literatur
 | --- | --- |
 | Quelle | Haro, J., Hinojosa, J. A., & Ferré, P. (2025). The influence of individual differences in the processing of words expressing discrete emotions: data from a large-scale study. Scientific Reports, 15(1), 25036. https://doi.org/10.1038/s41598-025-10310-9 |
 | --- | --- |
-| Bibtex | @article{haro2025influence,
+| Bibtex | @article{haro2025influence, <br>
   title={The influence of individual differences in the processing of words expressing discrete emotions: data from a large-scale study},
   author={Haro, Juan and Hinojosa, Jos{\'e} Antonio and Ferr{\'e}, Pilar},
   journal={Scientific Reports},
