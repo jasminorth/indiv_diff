@@ -38,9 +38,9 @@ Zur Erinnerung hier noch einmal unser festgelegter Versuchsablauf. Ihr findet hi
   * dataset_creation.ipynb: code notebook used for dataset creation
   * experiment_stimuli_dataframe.csv: final dataset used in the experiment
   * statistical_significance.R: code used for statistical testing of stimuli
-* experiment constituents O
+* experiment constituents
   * LDT_Gruppe1_final.osexp: OpenSesame experiment
-  * todo:xxx O
+  * questionaire (valence_l1_english).pdf: pdf version of subject questionaire
 * experiment raw data O
   * todo:xxx O
  
