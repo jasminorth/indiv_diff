@@ -1,15 +1,3 @@
-todo
-  
-* upload dataset *V*
-* documentation of dataset creation
-  * google doc
-  * code
-  * bookmarks
-* code dataset creation
-* statistical check dataset ??
-
-> Note: i still have to make this all pretty, but i started collecting all the info :)
-
 # Dataset creation
 The dataset contains *words* and *nonwords*
 
@@ -29,9 +17,11 @@ Datasets used in word collection:
 * Frequency: `SUBTLEXusfrequencyabove1.xls` https://www.ugent.be/pp/experimentele-psychologie/en/research/documents/subtlexus/overview.htm
 * Cognates: `CogNet-v1.0.tsv` https://github.com/kbatsuren/CogNet/blob/master/CogNet-v1.0.zip
 
-The aforementioned datasets were automatically parsed (see code {`dataset_creation.ipynb`, [LINK](https://github.com/jasminorth/indiv_diff/blob/main/dataset/dataset_creation.ipynb)]) and only fitting instances were retained. These instances were then filtered into one of three categorical valences:
+The aforementioned datasets were automatically parsed and only fitting instances were retained. These instances were then filtered into one of three categorical valences:
 positive (valence of 7 or higher), negative (valence of 3 or lower), and neutral (valence between (or equal to) 4.5 and 5.5).
 The remainder of words were not retained, as we did not want fuzzy edge cases, which would have made the analysis noisy.
+
+> For more details please see the explanations and documentation provided in the code: {`dataset_creation.ipynb`, [LINK](https://github.com/jasminorth/indiv_diff/blob/main/dataset/dataset_creation.ipynb)]
 
 Counters per category (positive, negative, neutral valence) were implemented as well to ensure more than 30 instances each.
 The objective behind that was to leave room for potential deletion of faulty instances (instances that do not truly fit the conditions) and still have enough instances in the end.
