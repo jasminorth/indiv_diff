@@ -19,7 +19,7 @@
   publisher={Nature Publishing Group UK London}
 }
 
-\vspace
+\vspace{1em}
 
 | Keywords | Sammelband, Grundlagen, Sprachverarbeitung, Zweitspracherwerb |
 | --- | --- |
