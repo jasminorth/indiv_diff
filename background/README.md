@@ -19,7 +19,6 @@
   publisher={Nature Publishing Group UK London}
 }
 
-\
 
 | Keywords | Sammelband, Grundlagen, Sprachverarbeitung, Zweitspracherwerb |
 | --- | --- |
@@ -54,15 +53,15 @@
 
 
 
-| Keywords |  |
+| Keywords | images, stimuli |
 | --- | --- |
-| Quelle |  |
-| Abstract |  |
+| Quelle | Duñabeitia, J. A., Crepaldi, D., Meyer, A. S., New, B., Pliatsikas, C., Smolka, E., & Brysbaert, M. (2018). MultiPic: A standardized set of 750 drawings with norms for six European languages. Quarterly Journal of Experimental Psychology, 71(4), 808–816. https://doi.org/10.1080/17470218.2017.1310261 |
+| Abstract | Numerous studies in psychology, cognitive neuroscience and psycholinguistics have used pictures of objects as stimulus materials. Currently, authors engaged in cross-linguistic work or wishing to run parallel studies at multiple sites where different languages are spoken must rely on rather small sets of black-and-white or colored line drawings. These sets are increasingly experienced as being too limited. Therefore, we constructed a new set of 750 colored pictures of concrete concepts. This set, MultiPic, constitutes a new valuable tool for cognitive scientists investigating language, visual perception, memory and/or attention in monolingual or multilingual populations. Importantly, the MultiPic databank has been normed in six different European languages (British English, Spanish, French, Dutch, Italian and German). All stimuli and norms are freely available at http://www.bcbl.eu/databases/multipic. |
 
 > Bibtex: \
 
 
-Duñabeitia, J. A., Crepaldi, D., Meyer, A. S., New, B., Pliatsikas, C., Smolka, E., & Brysbaert, M. (2018). MultiPic: A standardized set of 750 drawings with norms for six European languages. Quarterly Journal of Experimental Psychology, 71(4), 808–816. https://doi.org/10.1080/17470218.2017.1310261
+
 
 | Keywords |  |
 | --- | --- |
