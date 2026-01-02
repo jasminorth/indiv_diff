@@ -33,7 +33,7 @@ The resulting dataset was then manually checked to ensure that no faulty words w
 Consequently, thorough manual review and post-hoc deletions resulted in 30 words per category: positive, negative, and neutral (90 in total).
 
 ## Nonwords
-Conditions
+Conditions:
 * target language (English):
   * correspond to phonotactical and orthographical rules of the target language
   * correspond to formation rules of nouns in target language
