@@ -2,7 +2,6 @@
 
 
 # Structure
-* background: preliminary literature review
 * dataset
   * **README.md**: overview over dataset creation
   * **dataset_creation.ipynb**: code notebook used for dataset creation
